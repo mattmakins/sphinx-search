@@ -11,10 +11,7 @@
     ],    
     "autoload": {
         "psr-0": {
-            "\\": "client/"
-        },
-        "classmap": [
-            "client/"
-        ]
+            "\SphinxClient": "client/sphinxapi.php"
+        }
     }
 }
