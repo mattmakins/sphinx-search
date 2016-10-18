@@ -1,0 +1,20 @@
+{
+    "name": "mattmakins/sphinx-search",
+    "description": "Sphinx search library",
+    "type": "library",
+    "version": "0.9",
+    "repositories": [        
+        {
+            "type": "vcs",
+            "url": "https://github.com/mattmakins/sphinx-search.git"    
+        }
+    ],    
+    "autoload": {
+        "psr-0": {
+            "\\": "client/"
+        },
+        "classmap": [
+            "client/"
+        ]
+    }
+}
