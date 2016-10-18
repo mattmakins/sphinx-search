@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/ruby/spec/sphinx
+END
+sphinx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/ruby/spec/sphinx/sphinx.conf
+END
+sphinx-id64.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/ruby/spec/sphinx/sphinx-id64.conf
+END
+sphinx_test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/ruby/spec/sphinx/sphinx_test.sql
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java
+END
+SphinxMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/SphinxMatch.java
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/MANIFEST.MF
+END
+SphinxResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/SphinxResult.java
+END
+SphinxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/SphinxException.java
+END
+SphinxClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/SphinxClient.java
+END
+mk.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/mk.cmd
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/Makefile
+END
+mkdoc.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/mkdoc.cmd
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/test.java
+END
+SphinxWordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/java/SphinxWordInfo.java
+END

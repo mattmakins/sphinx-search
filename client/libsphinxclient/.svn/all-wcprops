@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient
+END
+buildconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/buildconf.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/configure
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/test.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/configure.in
+END
+sphinxclient_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/sphinxclient_config.h.in
+END
+sphinxclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/sphinxclient.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/ltmain.sh
+END
+sphinxclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/sphinxclient.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/test.c
+END
+libsphinxclient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/libsphinxclient.vcproj
+END
+build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/build.mk
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/missing
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1786/tags/REL_0_9_9_RC2/api/libsphinxclient/test.sln
+END
