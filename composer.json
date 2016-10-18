@@ -14,7 +14,7 @@
             "SpinxClient\\": "client/"
         },
 	"classmap": [
-	    "./client/sphnixapi.php
+	    "./client/sphinxapi.php"
 	]
     }
 }
