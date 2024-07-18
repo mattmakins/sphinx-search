@@ -1,7 +1,7 @@
 <?php
 
 //
-// $Id: test.php 1712 2009-03-02 10:27:19Z shodan $
+// $Id$
 //
 
 require ( "sphinxapi.php" );
@@ -50,7 +50,7 @@ $q = "";
 $sql = "";
 $mode = SPH_MATCH_ALL;
 $host = "localhost";
-$port = 3312;
+$port = 9312;
 $index = "*";
 $groupby = "";
 $groupsort = "@group desc";
@@ -58,6 +58,7 @@ $filter = "group_id";
 $filtervals = array();
 $distinct = "";
 $sortby = "";
+$sortexpr = "";
 $limit = 20;
 $ranker = SPH_RANK_PROXIMITY_BM25;
 $select = "";
@@ -90,6 +91,7 @@ for ( $i=0; $i<count($args); $i++ )
 		if ( $arg=="none" )		$ranker = SPH_RANK_NONE;
 		if ( $arg=="wordcount" )$ranker = SPH_RANK_WORDCOUNT;
 		if ( $arg=="fieldmask" )$ranker = SPH_RANK_FIELDMASK;
+		if ( $arg=="sph04" )	$ranker = SPH_RANK_SPH04;
 	}
 	else
 		$q .= $args[$i] . " ";
@@ -102,7 +104,6 @@ for ( $i=0; $i<count($args); $i++ )
 $cl->SetServer ( $host, $port );
 $cl->SetConnectTimeout ( 1 );
 $cl->SetArrayResult ( true );
-$cl->SetWeights ( array ( 100, 1 ) );
 $cl->SetMatchMode ( $mode );
 if ( count($filtervals) )	$cl->SetFilter ( $filter, $filtervals );
 if ( $groupby )				$cl->SetGroupBy ( $groupby, SPH_GROUPBY_ATTR, $groupsort );
@@ -144,7 +145,7 @@ if ( $res===false )
 			foreach ( $res["attrs"] as $attrname => $attrtype )
 			{
 				$value = $docinfo["attrs"][$attrname];
-				if ( $attrtype & SPH_ATTR_MULTI )
+				if ( $attrtype==SPH_ATTR_MULTI || $attrtype==SPH_ATTR_MULTI64 )
 				{
 					$value = "(" . join ( ",", $value ) .")";
 				} else
@@ -161,7 +162,7 @@ if ( $res===false )
 }
 
 //
-// $Id: test.php 1712 2009-03-02 10:27:19Z shodan $
+// $Id$
 //
 
 ?>
